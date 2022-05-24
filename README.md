@@ -1,8 +1,40 @@
-- 👋 Hi, I’m @ekenmapeter
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, my name is Ekenma Peter Nwabueze, and I am a full-stack Frontend and Backend Developer from Nigeria. I have in-depth knowledge of web development, infrastructure, and architecture with my 6+ years working and building real-life Application/Software. I have worked for verious startup in developing a stunning, mobile friendly and scalable website / App.
+- I love working with PHP, JavaScript, Laravel, Flask, Flutter, Restful API, Payment Integration, ReactJs, Vue, Postgres, MySQL,NoSQL, Bootstrap, and many more. Below are my years of experience working on various language and framework:
+- 
+-  PHP => 5 years
+-  JavaScript => 3 years
+-  Laravel => 3 years
+-  Flask => 2 years
+-  Flutter => 1 year
+-  Restful API => 2 years
+-  Payment Integration Api => 3 years
+-  ReactJs => 3 years
+-  Vue => 1 year
+-  Postgres => 1 year
+-  MySQL => 4 years
+-  NoSQL => 1 year
+-  Bootstrap => 5 years 
+-  Solidity => 1 year
+
+
+## Extra skills include:
+- Photoshop => 5 years
+- Aftereffect => 3 years
+- 2d animation => 2 years
+- motion picture => 3 years
+- canvas => 2 years
+
+## More About me
+- I love building and engaging in problem-solving, and my drive and one of my passion is to contribute on building products to help solve a problem. 
+- I love learning new technologies and also ensure I keep working on real-life application / project to help improve my consistency in my field and contribute in any team i found myself into.
+
+- 👀 I’m interested in Frontend & Backend Application...
+- 🌱 I’m currently learning PHP, ReactJs, Solidity, Vue, Postgres, Mysql, Laravel, WordPress and Graphic Design...
+- 💞️ I’m looking to collaborate on open source projects, Wordpress Plugins, Themes, start-ups, small or medium scale firm...
+- 📫 You can react me 
+- Email = ekenma.peter@gmail.com
+- WhatsApp = +2347031633778
+- Linkedin = https://www.linkedin.com/in/ekenma-peter-nwabueze/
 
 <!---
 ekenmapeter/ekenmapeter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
