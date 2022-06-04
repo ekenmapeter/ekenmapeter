@@ -36,6 +36,24 @@
 - WhatsApp = +2347031633778
 - Linkedin = https://www.linkedin.com/in/ekenma-peter-nwabueze/
 
+
+##Portfolio
+- http://projectmanager007.herokuapp.com/
+- https://itexperience.com.ng
+- https://vbn.ng/
+- https://www.ceetrontech.com.ng/
+- https://veridaq.com/
+- https://msoundstudio.com
+- https://it.techafri.com/
+- https://techafri.com/
+- https://www.narposd.com/
+- https://www.certfee.com/
+- https://inetdevice.com.ng 
+- https://www.oiltrain.org
+- https://veridaq.com
+- https://shevootech.online
+- 
+
 <!---
 ekenmapeter/ekenmapeter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
