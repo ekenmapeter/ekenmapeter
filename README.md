@@ -38,19 +38,19 @@
 
 
 ## Portfolio
-- http://projectmanager007.herokuapp.com/
-- https://itexperience.com.ng
+- https://bongomusic.com.ng ( ReactJs + WordPress Restful Api )
+- https://projectmanager007.herokuapp.com ( Laravel 9 + Bootstrap 5 )
+- https://itexperience.com.ng (WordPress)
 - https://vbn.ng/
-- https://www.ceetrontech.com.ng/
-- https://veridaq.com/
-- https://msoundstudio.com
+- https://www.ceetrontech.com.ng/ (WordPress)
+- https://veridaq.com/ ( Laravel 9 + Bootstrap 5 )
+- https://msoundstudio.com (WordPress)
 - https://it.techafri.com/
 - https://techafri.com/
 - https://www.narposd.com/
 - https://www.certfee.com/
-- https://inetdevice.com.ng 
+- https://inetdevice.com.ng  (WordPress)
 - https://www.oiltrain.org
-- https://veridaq.com
 - https://shevootech.online
 - 
 
