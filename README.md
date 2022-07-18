@@ -6,9 +6,10 @@
 -  Laravel => 3 years
 -  Flask => 2 years
 -  Flutter => 1 year
--  Restful API => 2 years
+-  Rest API => 2 years
 -  Payment Integration Api => 3 years
 -  ReactJs => 3 years
+-  Tailwind CSS => 1 Year
 -  Vue => 1 year
 -  Postgres => 1 year
 -  MySQL => 4 years
@@ -29,8 +30,8 @@
 - I love learning new technologies and also ensure I keep working on real-life application / project to help improve my consistency in my field and contribute in any team i found myself into.
 
 - 👀 I’m interested in Frontend & Backend Application...
-- 🌱 I’m currently learning PHP, ReactJs, Solidity, Vue, Postgres, Mysql, Laravel, WordPress and Graphic Design...
-- 💞️ I’m looking to collaborate on open source projects, Wordpress Plugins, Themes, start-ups, small or medium scale firm...
+- 🌱 I’m currently improving on PHP, ReactJs, Solidity, Vue, Postgres, Mysql, Laravel, WordPress and Graphic Design...
+- 💞️ I’m looking to collaborate on open source projects, start-up in every field.
 - 📫 You can react me 
 - Email = ekenma.peter@gmail.com
 - WhatsApp = +2347031633778
