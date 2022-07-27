@@ -44,6 +44,7 @@
 - https://itexperience.com.ng (WordPress)
 - https://vbn.ng/
 - https://www.ceetrontech.com.ng/ (WordPress)
+- http://veridaq-webapp.herokuapp.com/
 - https://veridaq.com/ ( Laravel 9 + Bootstrap 5 )
 - https://msoundstudio.com (WordPress)
 - https://it.techafri.com/
