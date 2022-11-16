@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Ekenma Peter Nwabueze, and I am a full-stack Frontend and Backend Developer from Nigeria. I have in-depth knowledge of web development, infrastructure, and architecture with my 6+ years working and building real-life Application/Software. I have worked for verious startup in developing a stunning, mobile friendly and scalable website / App.
 - I love working with PHP, JavaScript, Laravel, Flask, Flutter, Restful API, Payment Integration, ReactJs, Vue, Postgres, MySQL,NoSQL, Bootstrap, and many more. Below are my years of experience working on various language and framework:
 - 
--  PHP => 5 years
+-  PHP => 6 years
 -  JavaScript => 3 years
 -  Laravel => 3 years
 -  Flask => 2 years
@@ -9,7 +9,7 @@
 -  Rest API => 2 years
 -  Payment Integration Api => 3 years
 -  ReactJs => 3 years
--  Tailwind CSS => 1 Year
+-  Tailwind CSS => 2 Year
 -  Vue => 1 year
 -  Postgres => 1 year
 -  MySQL => 4 years
