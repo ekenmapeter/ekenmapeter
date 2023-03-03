@@ -42,19 +42,20 @@
 - https://www.yuwangtrade.com (Laravel 9, Tailwind, AlpineJs, Javascript, Restful API, MySQL)
 - https://bongomusic.ng ( Laravel 9, Tailwind, AlpineJs, Javascript, Restful API, MySQL )
 - https://deparisengineering.ng (Contruction Websition with Woocomerce for Design Purchase and Download )
+- https://houseofmienafashion.com (Ecommerce store built with WordPress )
 - https://old.bongomusic.com.ng ( ReactJs + WordPress Restful Api )
 - https://itexperience.com.ng (WordPress)
 - https://vbn.ng/
 - https://www.ceetrontech.com.ng/ (WordPress)
 - https://veridaq.com/ ( Laravel 9 + Bootstrap 5 )
-- https://msoundstudio.com (WordPress)
+- https://www.magneticsstudio.com (WordPress)
 - https://it.techafri.com/
 - https://techafri.com/
 - https://www.narposd.com/
 - https://www.certfee.com/
-- https://inetdevice.com.ng  (WordPress)
+- https://inetdevice.com.ng  (Ecommerce store built with WordPress)
 - https://www.oiltrain.org
-- 
+
 
 <!---
 ekenmapeter/ekenmapeter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
