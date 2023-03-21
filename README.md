@@ -39,6 +39,7 @@
 
 
 ## Portfolio
+- https://www.veridaq.com (Laravel 9, Filepond.js, Online Certificate Verification)
 - https://www.yuwangtrade.com (Laravel 9, Tailwind, AlpineJs, Javascript, Restful API, MySQL)
 - https://bongomusic.ng ( Laravel 9, Tailwind, AlpineJs, Javascript, Restful API, MySQL )
 - https://doconcall247.com.ng 
