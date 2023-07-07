@@ -39,18 +39,17 @@
 
 
 ## Portfolio
-- https://www.veridaq.com (Laravel 9, Filepond.js, Online Certificate Verification)
-- https://www.yuwangtrade.com (Laravel 9, Tailwind, AlpineJs, Javascript, Restful API, MySQL)
-- https://bongomusic.ng ( Laravel 9, Tailwind, AlpineJs, Javascript, Restful API, MySQL )
+- https://www.veridaq.com (Online Certificate verification system built with Laravel 9, Filepond.js, Online Certificate Verification)
+- https://www.yuwangtrade.com (Gift Card and Crypto Seller Platform built with Laravel 9, Tailwind, AlpineJs, Javascript, Restful API, MySQL)
+- https://bongomusic.ng (Micro Blog and Online streaming platform built with Laravel 9, Tailwind, AlpineJs, Javascript, Restful API, MySQL )
 - https://doconcall247.com.ng 
 - https://api.bongomusic.com.ng ( Api to get latest Igbo News Around the World )
 - https://deparisengineering.ng (Contruction Websition with Woocomerce for Design Purchase and Download )
 - https://houseofmienafashion.com (Ecommerce store built with WordPress )
 - https://old.bongomusic.com.ng ( ReactJs + WordPress Restful Api )
-- https://itexperience.com.ng (WordPress)
+- https://itmaill.ng (Ecommerce store built with WordPress)
 - https://vbn.ng/
-- https://www.ceetrontech.com.ng/ (WordPress)
-- https://veridaq.com/ ( Laravel 9 + Bootstrap 5 )
+- https://www.ceetrontech.com.ng/ (Ecommerce store built with WordPress)
 - https://www.magneticsstudio.com (WordPress)
 - https://it.techafri.com/
 - https://techafri.com/
