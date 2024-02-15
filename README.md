@@ -35,6 +35,7 @@
 - 📫 You can react me 
 - Email = ekenma.peter@gmail.com
 - WhatsApp = +2347031633778
+- Telegram = +2347031633778
 - Linkedin = https://www.linkedin.com/in/ekenma-peter-nwabueze/
 
 
