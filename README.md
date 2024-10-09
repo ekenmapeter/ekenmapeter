@@ -2,17 +2,17 @@
 - I love working with PHP, JavaScript, Laravel, Flask, Flutter, Restful API, Payment Integration, ReactJs, Vue, Postgres, MySQL,NoSQL, Bootstrap, and many more. Below are my years of experience working on various language and framework:
 - 
 -  PHP => 6 years
--  JavaScript => 3 years
--  Laravel => 3 years
+-  JavaScript => 4 years
+-  Laravel => 5 years
 -  Flask => 2 years
 -  Flutter => 1 year
 -  Rest API => 2 years
 -  Payment Integration Api => 3 years
 -  ReactJs => 3 years
--  Tailwind CSS => 2 Year
+-  Tailwind CSS => 3 Year
 -  Vue => 1 year
 -  Postgres => 1 year
--  MySQL => 4 years
+-  MySQL => 5 years
 -  NoSQL => 1 year
 -  Bootstrap => 5 years 
 -  Solidity => 1 year
@@ -32,7 +32,7 @@
 - 👀 I’m interested in Frontend & Backend Application...
 - 🌱 I’m currently improving on PHP, ReactJs, Solidity, Vue, Postgres, Mysql, Laravel, WordPress and Graphic Design...
 - 💞️ I’m looking to collaborate on open source projects, start-up in every field.
-- 📫 You can react me 
+- 📫 You can reach me 
 - Email = ekenma.peter@gmail.com
 - WhatsApp = +2347031633778
 - Telegram = +2347031633778
@@ -40,22 +40,20 @@
 
 
 ## Portfolio
+- https://flipbz.org (Startup, invest in, Buy And Sale Business)
+- https://knowledgeafrika.com
+- https://gotelafrica.com (creating employment opportunities, empowering the continent's youth)
+- https://sms.gramlsocial.com (Get Your Virtual SIM Card Instantly!)
 - https://www.veridaq.com (Online Certificate verification system built with Laravel 9, Filepond.js, Online Certificate Verification)
-- https://www.yuwangtrade.com (Gift Card and Crypto Seller Platform built with Laravel 9, Tailwind, AlpineJs, Javascript, Restful API, MySQL)
+- https://goodpayexchange.com (Gift Card and Crypto Seller Platform built with Laravel 9, Tailwind, AlpineJs, Javascript, Restful API, MySQL)
 - https://bongomusic.ng (Micro Blog and Online streaming platform built with Laravel 9, Tailwind, AlpineJs, Javascript, Restful API, MySQL )
 - https://doconcall247.com.ng 
 - https://api.bongomusic.com.ng ( Api to get latest Igbo News Around the World )
-- https://deparisengineering.ng (Contruction Websition with Woocomerce for Design Purchase and Download )
-- https://houseofmienafashion.com (Ecommerce store built with WordPress )
-- https://old.bongomusic.com.ng ( ReactJs + WordPress Restful Api )
-- https://itmaill.ng (Ecommerce store built with WordPress)
-- https://vbn.ng/
-- https://www.ceetrontech.com.ng/ (Ecommerce store built with WordPress)
-- https://www.magneticsstudio.com (WordPress)
-- https://it.techafri.com/
-- https://techafri.com/
-- https://www.narposd.com/
-- https://www.certfee.com/
+- https://shevootech.com.ng
+- https://www.ceetrontech.com.ng (Ecommerce store built with WordPress)
+- https://it.techafri.com
+- https://techafri.com
+- https://www.certfee.com
 - https://inetdevice.com.ng  (Ecommerce store built with WordPress)
 - https://www.oiltrain.org
 
