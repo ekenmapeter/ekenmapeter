@@ -45,19 +45,16 @@ I love learning new technologies and also ensure I keep working on real-life app
 - https://bongomusic.com.ng (Micro Blog and Online streaming platform built with Laravel 9, Tailwind, AlpineJs, Javascript, Restful API, MySQL )
 - https://flipbz.org (Startup, invest in, Buy and Sell Business)
 - https://www.plutexchange.com (Gift Card and Crypto Seller Platform built with Laravel 9, Tailwind, AlpineJs, Javascript, Restful API, MySQL)
-- https://knowledgeafrika.com
+- https://knowledgeafrika.ng
 - https://gotelafrica.com (creating employment opportunities, empowering the continent's youth)
 - https://sms.gramlsocial.com (Get Your Virtual SIM Card Instantly!)
 - https://www.veridaq.com (Online Certificate verification system built with Laravel 9, Filepond.js, Online Certificate Verification)
-- https://goodpayexchange.com (Gift Card and Crypto Seller Platform built with Laravel 9, Tailwind, AlpineJs, Javascript, Restful API, MySQL)
 - https://doconcall247.com.ng 
-- https://api.bongomusic.com.ng ( Api to get the latest Igbo News Around the World )
 - https://shevootech.com.ng
 - https://www.ceetrontech.com.ng (E-commerce store built with WordPress)
 - https://it.techafri.com
 - https://techafri.com
 - https://www.certfee.com
-- https://inetdevice.com.ng  (E-commerce store built with WordPress)
 - https://www.oiltrain.org
 
 
