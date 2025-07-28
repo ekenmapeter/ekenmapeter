@@ -34,7 +34,8 @@ I love learning new technologies and also ensure I keep working on real-life app
 - 💞️ I’m looking to collaborate on open source projects, start-ups in every field.
 - 📫 You can reach me 
 - Email = ekenma.peter@gmail.com
-- WhatsApp = +2347031633778
+- Call or WhatsApp = +2348035685833
+- Call or WhatsApp = +2347031633778
 - Telegram = +2347031633778
 - Linkedin = https://www.linkedin.com/in/ekenma-peter-nwabueze/
 
