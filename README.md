@@ -44,6 +44,9 @@ I love learning new technologies and also ensure I keep working on real-life app
 - https://getosusu.com (Startup, E-commerce that offers a payment plan on their product)
 - https://affilate.getosusu.com (Affiliate programme, E-commerce that offers a payment plan on their product)
 - https://igbomusic.com (Micro Blog and Online streaming platform built with Laravel 9, Tailwind, AlpineJs, Javascript, Restful API, MySQL )
+- https://medihealthinternational.com
+- https://aethryna.com
+- https://easymotiontourist.com
 - https://flipbz.org (Startup, invest in, Buy and Sell Business)
 - https://www.plutexchange.com (Gift Card and Crypto Seller Platform built with Laravel 9, Tailwind, AlpineJs, Javascript, Restful API, MySQL)
 - https://knowledgeafrika.ng
