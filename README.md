@@ -41,25 +41,22 @@ I love learning new technologies and also ensure I keep working on real-life app
 
 
 ## Portfolio
+
+- https://www.ceetrontech.com.ng (E-commerce store)
+- https://igbomusic.com (Micro Blog and Online streaming platform built with Laravel 9, Tailwind, AlpineJs, Javascript, Restful API, MySQL )
+- https://zyvenah.com (Africa Corporate Social Vibes platform)
 - https://getosusu.com (Startup, E-commerce that offers a payment plan on their product)
 - https://affilate.getosusu.com (Affiliate programme, E-commerce that offers a payment plan on their product)
-- https://igbomusic.com (Micro Blog and Online streaming platform built with Laravel 9, Tailwind, AlpineJs, Javascript, Restful API, MySQL )
 - https://medihealthinternational.com
+- https://aurevitahealth.ca
+- https://streamadolla.com (Get paid watching Youtube Video)
+- https://skillscoop.org
 - https://aethryna.com
-- https://easymotiontourist.com
+- https://sanitaalert.ng (Lagos Start enviromental webapp )
 - https://flipbz.org (Startup, invest in, Buy and Sell Business)
-- https://www.plutexchange.com (Gift Card and Crypto Seller Platform built with Laravel 9, Tailwind, AlpineJs, Javascript, Restful API, MySQL)
-- https://knowledgeafrika.ng
-- https://onlineunlockings.com
-- https://stunnerentertainmentempire.com
-- https://gotelafrica.com (creating employment opportunities, empowering the continent's youth)
 - https://sms.gramlsocial.com (Get Your Virtual SIM Card Instantly!)
-- https://www.veridaq.com (Online Certificate verification system built with Laravel 9, Filepond.js, Online Certificate Verification)
 - https://doconcall247.com.ng 
-- https://shevootech.com.ng
-- https://www.ceetrontech.com.ng (E-commerce store built with WordPress)
-- https://it.techafri.com
-- https://techafri.com
+- https://shevootech.com.ng (Personal Company)
 - https://www.certfee.com
 - https://www.oiltrain.org
 
